@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/friends-search/static/css/main.1039c846.chunk.css",
-    "main.js": "/friends-search/static/js/main.0629845d.chunk.js",
-    "main.js.map": "/friends-search/static/js/main.0629845d.chunk.js.map",
+    "main.css": "/friends-search/static/css/main.f6305316.chunk.css",
+    "main.js": "/friends-search/static/js/main.75c6c226.chunk.js",
+    "main.js.map": "/friends-search/static/js/main.75c6c226.chunk.js.map",
     "runtime-main.js": "/friends-search/static/js/runtime-main.896db207.js",
     "runtime-main.js.map": "/friends-search/static/js/runtime-main.896db207.js.map",
     "static/css/2.eb45ad44.chunk.css": "/friends-search/static/css/2.eb45ad44.chunk.css",
     "static/js/2.6a535fe4.chunk.js": "/friends-search/static/js/2.6a535fe4.chunk.js",
     "static/js/2.6a535fe4.chunk.js.map": "/friends-search/static/js/2.6a535fe4.chunk.js.map",
     "index.html": "/friends-search/index.html",
-    "precache-manifest.5c7635b5fb94b0b5793bf3b68281b67d.js": "/friends-search/precache-manifest.5c7635b5fb94b0b5793bf3b68281b67d.js",
+    "precache-manifest.bf87bc71d0e8c30c37b1c0c3f3404c5c.js": "/friends-search/precache-manifest.bf87bc71d0e8c30c37b1c0c3f3404c5c.js",
     "service-worker.js": "/friends-search/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/friends-search/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.1039c846.chunk.css.map": "/friends-search/static/css/main.1039c846.chunk.css.map",
+    "static/css/main.f6305316.chunk.css.map": "/friends-search/static/css/main.f6305316.chunk.css.map",
     "static/media/App.css": "/friends-search/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.896db207.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.6a535fe4.chunk.js",
-    "static/css/main.1039c846.chunk.css",
-    "static/js/main.0629845d.chunk.js"
+    "static/css/main.f6305316.chunk.css",
+    "static/js/main.75c6c226.chunk.js"
   ]
 }
