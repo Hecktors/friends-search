@@ -54,7 +54,7 @@ header {
 
 .card {
   width: 30%;
-  min-width: 232px;
+  min-height: 232px;
   vertical-align: middle;
 }
 
