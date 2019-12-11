@@ -2,7 +2,6 @@ import React from 'react'
 import Card from './Card'
 
 const CardList = ({friends}) => {
-    // throw new Error("+++ critical error +++")
     return (
         <div>
             {
