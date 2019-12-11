@@ -43,8 +43,7 @@ header {
 }
 
 .cardlist {
-  display: flex;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
 }
 
 .card,
@@ -54,6 +53,7 @@ header {
 
 .card {
   width: 30%;
+  min-height: 170px;
   vertical-align: middle;
 }
 
@@ -65,7 +65,8 @@ header {
     height: 75%;
   }
   .cardlist {
-    display: block;
+    /* display: flex; */
+    /* display: block; */
   }
   .card {
     min-height: 256px;
