@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "576692be35cbe828fea5b9a468225813",
+    "revision": "f322b8ec4849fd4946c3e237e9d2cae3",
     "url": "/friends-search/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/friends-search/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "24d7ec6e751c5f546d30",
+    "revision": "c9b4e576b4c1414f65c4",
     "url": "/friends-search/static/css/main.471a7a28.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/friends-search/static/js/2.61613832.chunk.js"
   },
   {
-    "revision": "24d7ec6e751c5f546d30",
-    "url": "/friends-search/static/js/main.587a087f.chunk.js"
+    "revision": "c9b4e576b4c1414f65c4",
+    "url": "/friends-search/static/js/main.d016141f.chunk.js"
   },
   {
     "revision": "7eeea154e22c679826c9",
