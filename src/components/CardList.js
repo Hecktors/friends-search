@@ -3,7 +3,7 @@ import Card from './Card'
 
 const CardList = ({friends}) => {
     return (
-        <div>
+        <div class="cardlist">
             {
                 friends.map(friend => < Card 
                     key={friend.login.uuid} 
