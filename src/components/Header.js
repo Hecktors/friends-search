@@ -7,7 +7,7 @@ class Header extends Component {
     }
 
     render() {
-        return <h1 className="ma0 p0 f1 white">Find your Friend!</h1>    }
+        return <h1 className="ma0 p0 f2 f1-ns white">Find your Friend!</h1>    }
 }
 
 export default Header 
