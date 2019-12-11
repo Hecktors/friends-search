@@ -13,7 +13,7 @@ const Card = ({ id, first, last, email, pic, country, city }) => {
             <div className="tc">
                 <img src={pic} className="br-100 w4 dib ba b--black-05 pa1" alt="friend" />
                 <h3 className="f5 mb2">{first}<br/>{last}</h3>
-                <p className="fz-xs fw4 gray mt0">{`${city}, ${country}`}</p>
+                <p className="fz-xs fw4 dark-gray mt0">{`${city}, ${country}`}</p>
             </div>
         </article>
     )
