@@ -49,8 +49,15 @@ header {
 
 .card {
   width: 30%;
-  min-height: 170px;
+  min-height: 186px;
   vertical-align: middle;
+}
+
+@media only screen and (min-width: 480px) {
+  .card {
+    min-height: 256px;
+    width: auto;
+  }
 }
 
 @media only screen and (min-width: 768px) {
@@ -59,10 +66,5 @@ header {
   }
   .scroll {
     height: 75%;
-  }
-  
-  .card {
-    min-height: 256px;
-    width: auto;
   }
 }
