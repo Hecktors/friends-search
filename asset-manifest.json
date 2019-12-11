@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/friends-search/static/css/main.22bd9ddb.chunk.css",
+    "main.css": "/friends-search/static/css/main.902a85ec.chunk.css",
     "main.js": "/friends-search/static/js/main.da68a58f.chunk.js",
     "main.js.map": "/friends-search/static/js/main.da68a58f.chunk.js.map",
     "runtime-main.js": "/friends-search/static/js/runtime-main.896db207.js",
@@ -9,16 +9,16 @@
     "static/js/2.61613832.chunk.js": "/friends-search/static/js/2.61613832.chunk.js",
     "static/js/2.61613832.chunk.js.map": "/friends-search/static/js/2.61613832.chunk.js.map",
     "index.html": "/friends-search/index.html",
-    "precache-manifest.af705d58965fb75b14e0b16b05ee60dd.js": "/friends-search/precache-manifest.af705d58965fb75b14e0b16b05ee60dd.js",
+    "precache-manifest.0c89b289be56560df67fa417d6c942b2.js": "/friends-search/precache-manifest.0c89b289be56560df67fa417d6c942b2.js",
     "service-worker.js": "/friends-search/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/friends-search/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.22bd9ddb.chunk.css.map": "/friends-search/static/css/main.22bd9ddb.chunk.css.map"
+    "static/css/main.902a85ec.chunk.css.map": "/friends-search/static/css/main.902a85ec.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.896db207.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.61613832.chunk.js",
-    "static/css/main.22bd9ddb.chunk.css",
+    "static/css/main.902a85ec.chunk.css",
     "static/js/main.da68a58f.chunk.js"
   ]
 }
