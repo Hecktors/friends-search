@@ -55,3 +55,9 @@ header {
     height: 75%;
   }
 }
+
+@media only screen and (max-width: 556px) {
+  .card {
+    min-height: 256px;
+    min-width: 45%;
+}
