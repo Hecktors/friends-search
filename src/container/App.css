@@ -1,14 +1,10 @@
-/* @font-face {
-  font-family: 'SEGA LOGO FONT';
-  font-style: normal;
-  font-weight: normal;
-  src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
-} */
+.App {
+  display: flex;
+  flex-direction: column;
+}
 
 h1 {
-  /* font-family: 'SEGA LOGO FONT'; */
   font-weight: 300;
-  margin: 0;
   padding: 1rem 0 0 0;
   color: #fff;
 }
@@ -25,21 +21,10 @@ article {
   font-size: 14px;
 }
 
-
 header {
-  position: sticky;
-  height: 20%;
-  min-height: 130px;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-}
-
-.scroll {
-  height: 75%;
-  background: #0f0c29;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .card,
@@ -47,24 +32,23 @@ header {
   background-color: #bbbbd8;
 }
 
+.card-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: auto;
+}
+
 .card {
-  width: 30%;
-  min-height: 186px;
-  vertical-align: middle;
+  width: 50%;
+  max-width: 150px;
 }
 
 @media only screen and (min-width: 480px) {
   .card {
-    min-height: 256px;
-    width: auto;
+    width: 30%;
   }
 }
 
 @media only screen and (min-width: 768px) {
-  header {
-    height: 25%;
-  }
-  .scroll {
-    height: 75%;
-  }
 }

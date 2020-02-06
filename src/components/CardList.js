@@ -3,7 +3,7 @@ import Card from './Card'
 
 const CardList = ({friends}) => {
     return (
-        <div class="cardlist">
+        <div className="card-list">
             {
                 friends.map(friend => < Card 
                     key={friend.login.uuid} 
@@ -13,7 +13,7 @@ const CardList = ({friends}) => {
                     email={friend.email}
                     country={friend.location.country}
                     city={friend.location.city} 
-                    pic={friend.picture.medium} />)
+                    pic={friend.picture.large} />)
             }
         </div>
     )
