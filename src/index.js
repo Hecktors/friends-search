@@ -14,8 +14,6 @@ const rootReducer = combineReducers({setSearchField, requestFriends})
 
 const store = createStore(rootReducer, applyMiddleware(thunk))
 
-
-
 ReactDOM.render(<Provider store={store}><App /></Provider>, document.getElementById('root'));
 
 serviceWorker.register();
